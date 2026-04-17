@@ -1,4 +1,4 @@
-Aqui está uma proposta de `README.md` sucinta e direta, focada na sua solução final com a Luli e nas tecnologias que você utilizou no código.
+
 
 ***
 
